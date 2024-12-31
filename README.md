@@ -14,6 +14,7 @@ pip install google-api-python-client google-auth google-auth-httplib2 httplib2 r
 -> Rename to "credentials.json" 
 -> Place the file "credentials.json" in the same folder as the program.
 (You can skip this step and use my "credentials.json",This is a completely free API.)
+>** The public API may be detected and disabled by Google. You should create your own private API.
 
 ## 4. Video tutorial:
 https://youtu.be/6Dj3YuUdwxY
